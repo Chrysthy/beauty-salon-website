@@ -29,7 +29,7 @@ export const Services = () => {
         {
             icon: <LuEyeClosed size={24} />,
             title: "Brow Shaping & Tint",
-            description: "Professional mapping and tinting to perfectly frame your eyes.",
+            description: "Expert architectural mapping and custom tinting designed to enhance volume, fill gaps, and perfectly frame your eyes.",
             price: "$ 25"
         },
         {
@@ -47,9 +47,9 @@ export const Services = () => {
     ]
 
     return (
-        <section className="py-16 lg:py-24 bg-[#0A0A0A]">
+        <section id="services" className="py-16 lg:py-24 bg-(--bg-color) scroll-mt-27">
             <div className="max-w-360 mx-auto px-4 sm:px-6 lg:px-8">
-                <div id="services" className="text-center">
+                <div className="text-center">
                     <h2 className="text-white mb-4 text-2xl">Our Services</h2>
                     <div></div>
                 </div>
@@ -71,7 +71,7 @@ export const Services = () => {
                         variant="primary"
                         onClick={() => window.open('https://wa.me/558599999999999', '_blank')}
                     >
-                        Quero agendar
+                        Book an Appointment
                     </Button>
                 </div>
             </div>
