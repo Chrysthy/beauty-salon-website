@@ -14,8 +14,7 @@ export const ServiceCard = ({ icon, title, description, price }: ServiceCardProp
         >
             <div className="flex flex-col gap-4">
                 <div
-                    className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center
-            group-hover:bg-primary/20 transition-colors duration-300"
+                    className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors duration-300 bg-linear-to-br from-(--hover-color) to-primary" 
                 >
                     {icon}
                 </div>
