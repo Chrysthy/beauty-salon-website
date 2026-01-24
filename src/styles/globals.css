@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+    --color-primary: plum;
+    --border-line: rgba(248, 100, 191, 0.2);
+    --border-line-button: rgb(250, 10, 191);
+    --color-glass-gray: #777777;
+    --button-color: rgb(250, 120, 200);
+    --hover-color: rgb(250, 10, 191);
+    --text-color: #A0A0A0;
+    --bg-color: #0A0A0A;
+}
