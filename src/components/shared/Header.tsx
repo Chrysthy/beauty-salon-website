@@ -32,13 +32,13 @@ const Header = () => {
                 <nav className="hidden md:flex items-center">
                     <ul className="flex items-center gap-8">
                         <li className="text-white hover:text-(--hover-color) duration-300 cursor-pointer">
-                            Home
+                            <a href="#home">Home</a>
                         </li>
                         <li className="text-white hover:text-(--hover-color) duration-300 cursor-pointer">
-                            Services
+                            <a href="#services">Services</a>
                         </li>
                         <li className="text-white hover:text-(--hover-color) duration-300 cursor-pointer">
-                            Contact
+                            <a href="#contact">Contact</a>
                         </li>
                         <li>
                             <Button
@@ -81,13 +81,13 @@ const Header = () => {
             >
                 <ul className="flex flex-col px-4 pb-4 gap-4 bg-(--bg-color)">
                     <li className="text-white hover:text-(--hover-color) duration-300 cursor-pointer py-2">
-                        Inicio
+                        Home
                     </li>
                     <li className="text-whitehover:text-(--hover-color) duration-300 cursor-pointer py-2">
-                        Serviços
+                        Services
                     </li>
                     <li className="text-whitehover:text-(--hover-color) duration-300 cursor-pointer py-2">
-                        Contato
+                        Contact
                     </li>
                     <li className="pt-2">
                         <Button
