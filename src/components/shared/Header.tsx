@@ -24,7 +24,7 @@ const Header = () => {
                     </a>
 
                     <span className="text-white text-sm md:text-base">
-                        Star Saloon
+                        Star Salon
                     </span>
                 </div>
 
