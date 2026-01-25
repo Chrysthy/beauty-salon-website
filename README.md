@@ -23,6 +23,8 @@
 
 ## 📸 Screenshots
 
-<img src=".github/gif-do-projeto.gif alt="Foto do projeto">
+<p align="center">
+  <img alt="Gif do Projeto" width="1500" src=".github/gif-do-projeto.gif">
+</p>
 
 <br>
