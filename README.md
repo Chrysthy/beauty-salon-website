@@ -28,3 +28,13 @@
 </p>
 
 <br>
+
+## 🛠 Technologies
+
+- React
+- TypeScript
+- Vite
+- Tailwind
+- Git and GitHub
+
+<br>
