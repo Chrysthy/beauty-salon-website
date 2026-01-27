@@ -14,6 +14,7 @@
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run">How to Run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support">Support</a>  
@@ -45,5 +46,32 @@
 - Neon Interactive Elements
 - WhatsApp Integration
 - Floating Booking Button
+
+<br>
+
+## ⚙ How to Run
+
+### 📋 Requirements
+
+- Web browser ([Chrome](https://www.google.com/chrome/), [Edge](https://www.microsoft.com/edge), [Firefox](https://www.mozilla.org/firefox/), etc)
+- Node
+
+<br>
+
+### 👣 Steps
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone <URL-do-repositorio>
+    ```
+2.  **Navegue até o diretório do projeto:**
+    ```bash
+    cd beauty-salon-website
+    ```
+3.  **Install dependencies:**
+    npm install
+
+4.  **Run the development server:**
+    npm run dev
 
 <br>
