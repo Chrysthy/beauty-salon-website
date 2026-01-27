@@ -38,3 +38,12 @@
 - Git and GitHub
 
 <br>
+
+## ✨ Features
+
+- Glassmorphism UI
+- Neon Interactive Elements
+- WhatsApp Integration
+- Floating Booking Button
+
+<br>
