@@ -26,7 +26,7 @@
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://seu-link-aqui.com">
+  <a href="https://seu-link-aqui.com" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
   </a>
 </p>
