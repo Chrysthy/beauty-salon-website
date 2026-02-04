@@ -26,9 +26,13 @@
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://seu-link-aqui.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
+  <a href="https://beauty-salon-website.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-Render-blue?labelColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Tip: Use right-click → “Open in new tab”.</sub>
 </p>
 
 
