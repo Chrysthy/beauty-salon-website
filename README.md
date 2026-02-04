@@ -11,6 +11,7 @@
 
 
 <p align="center">  
+  <a href="#-screenshots">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,6 +20,17 @@
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support">Support</a>  
 </p>
+
+<br>
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://seu-link-aqui.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
+  </a>
+</p>
+
 
 <br>
 
